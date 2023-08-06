@@ -26,5 +26,8 @@
  
 [Тестовое задание 2](https://github.com/TanyaAnissimova/test-tasks/tree/bbeb05c70ab6cd552c3b462bc6fff3f87a7dd9cd/%D0%A2%D0%97%202) - 
 составить список smoke тест-кейсов для главной страницы сайта Ozon
+# Контактная информация
+* E-mail:[anissabt@mail.ru](anissabt@mail.ru)
+* Telegrams:[https://t.me/MGtanya](https://t.me/MGtanya)
 
 
